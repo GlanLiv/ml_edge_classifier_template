@@ -45,7 +45,9 @@ Upload your images (PNG, JPG, or JPEG).
 
 Keep at least a few samples (10–20+ per class is recommended).
 
-In the terminal, track them with Git LFS and commit:
+Delete img000.png in both folders.
+
+In the terminal, track your images with Git LFS and commit:
 
 git lfs track "*.jpg" "*.png" "*.jpeg"
 git add .gitattributes
